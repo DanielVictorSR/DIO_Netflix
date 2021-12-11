@@ -1,4 +1,4 @@
-# JS_SnakeGame-Remake_DIO
+# DIO_Netflix
 ---
 
 "Desafio Prático - Recriando a Interface do Netflix"
